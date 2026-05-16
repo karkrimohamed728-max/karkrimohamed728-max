@@ -1,4 +1,4 @@
-<h3 align="left">response[200]:</h3>
+<h3 align="left"></h3>
 
 ###
 
