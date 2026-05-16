@@ -63,7 +63,7 @@
 </a>
 
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/99/a4/e1/99a4e1dc038bb0cb39f9d3c033b03a27.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/736x/78/da/4b/78da4ba55f58160d9a705a7c8d75859c.jpg">
 
 
   </a>
