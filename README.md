@@ -63,8 +63,8 @@
 </br>
 </a>
 
-<p align="center">
-<img scr="https://i.pinimg.com/originals/99/a4/e1/99a4e1dc038bb0cb39f9d3c033b03a27.gif" height="50" width="50" alt="L logo"/>
+
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 
 
   </a>
