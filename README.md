@@ -36,17 +36,15 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" width="50" alt="mongodb logo"  />
-
-<img src="https://skillicons.dev/icons?i=express" height="50" width="50" alt="express logo"  />
+<img src="https://skillicons.dev/icons?i=js" height="50" width="50" alt="javascript logo"  />
 <img src="https://skillicons.dev/icons?i=react" height="50" width="50" alt="react logo"  />
 <img src="https://skillicons.dev/icons?i=nodejs" height="50" width="50" alt="nodejs logo"  />
 </br>
+<img src="https://skillicons.dev/icons?i=express" height="50" width="50" alt="express logo"  />
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" width="50" alt="mongodb logo"  />
-<img src="https://skillicons.dev/icons?i=js" height="50" width="50" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
 </br>
 <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
 <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
 </p>
 </br>
