@@ -44,3 +44,6 @@ class Mohamed {
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,js,nodejs,python,cpp,git,github,vscode,figma" /> </p>
 
 ---
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" /> </p>
