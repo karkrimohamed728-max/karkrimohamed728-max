@@ -64,7 +64,7 @@
 </a>
 
 <p align="center">
-<img scr="https://i.pinimg.com/1200x/b7/62/37/b76237625939879ba32af347f0369138.jpg"/>
+<img scr="https://i.pinimg.com/1200x/b7/62/37/b76237625939879ba32af347f0369138.jpg" height="50" width="50" alt="linux logo"/>
 
 
   </a>
