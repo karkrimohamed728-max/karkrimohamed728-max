@@ -41,8 +41,6 @@ class Mohamed {
 ```
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,js,nodejs,python,cpp,git,github,vscode,figma" /> </p>
 
 ---
