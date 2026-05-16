@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moahamed  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Full Stack Developer 🔧 |</h3>
+<h3 align="center">Flutter Developer 🧠 | Full Stack Developer 🔧 </h3>
 
 <p align="center">
   <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
