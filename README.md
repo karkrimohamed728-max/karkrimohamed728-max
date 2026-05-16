@@ -32,8 +32,9 @@ class Mohamed {
     "Flutter UI/UX",
     "Dart & Animations",
     "JavaScript / Node.js",
-    "Python Basics",
+    "Python Basics & C",
     "Git & GitHub",
     "Problem Solving (Algorithmics)"
+    "HTML / CSS"
   ];
 }
