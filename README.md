@@ -45,7 +45,8 @@
 <img src="https://skillicons.dev/icons?i=linux" height="50" width="50" alt="linux logo"  />
 </p>
 </br>
-*************
+</br>
+</br>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/736x/78/da/4b/78da4ba55f58160d9a705a7c8d75859c.jpg">
 </div>
