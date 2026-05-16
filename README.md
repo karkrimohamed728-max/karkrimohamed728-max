@@ -45,8 +45,11 @@
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" width="50" alt="mongodb logo"  />
 <img src="https://skillicons.dev/icons?i=js" height="50" width="50" alt="javascript logo"  />
 </br>
+<img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
 </p>
+<img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
 </br>
+<img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
 </br>
 </br>
 
