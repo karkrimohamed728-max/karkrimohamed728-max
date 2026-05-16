@@ -64,7 +64,7 @@
 </a>
 
 <p align="center">
-<img scr= https://www.pinterest.com/pin/849491548482621400/>
+<img scr= [https://www.pinterest.com/pin/849491548482621400/](https://i.pinimg.com/1200x/b7/62/37/b76237625939879ba32af347f0369138.jpg) />
 
 
   </a>
