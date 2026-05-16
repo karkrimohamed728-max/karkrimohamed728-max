@@ -49,18 +49,15 @@
 
 
 
-# Contact Me :
 
 <p>
  </br>
 
 
 
-<a href="karkrimohamed777@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+
 </a>
-<a href="" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+
 </br>
 </br>
 </br>
