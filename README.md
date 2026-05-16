@@ -36,14 +36,19 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+<img width="20" />
 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img width="20" />
+<img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="20" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="20" />
 </br>
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" width="50" alt="mongodb logo"  />
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="20" />
 </br>
 </p>
 </br>
