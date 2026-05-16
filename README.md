@@ -38,3 +38,5 @@ class Mohamed {
     "HTML / CSS"
   ];
 }
+🧰 Tech Toolbox
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,js,nodejs,python,cpp,git,github,vscode,figma" /> </p>
