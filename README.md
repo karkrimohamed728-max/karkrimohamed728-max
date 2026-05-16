@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed 👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Building apps from Tangier 🇲🇦</h3>
+<h3 align="center">Flutter Developer 🧠 | Building apps from Nador 🇲🇦</h3>
 <p align="center">
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/@mohamed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
